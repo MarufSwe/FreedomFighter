@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">মুক্তিযোদ্ধা</string>
+    <string name="title_activity_catagory">মুক্তিযোদ্ধা</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_back">অনুসন্ধান</string>
+    <string name="title_activity_all_list">মুক্তিযোদ্ধা</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
